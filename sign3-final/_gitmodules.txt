@@ -1,0 +1,3 @@
+[submodule "cse383-f16-screen"]
+	path = cse383-f16-screen
+	url = https://gitlab.csi.miamioh.edu/campbest/cse383-f16-screen.git
